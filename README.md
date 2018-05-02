@@ -55,4 +55,4 @@ When submitting a pull request, please do so to the `staging` branch. For a pull
 
 
 
-npm run compile
+
